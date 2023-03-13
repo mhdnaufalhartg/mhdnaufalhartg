@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning Go and Reactjs. 
 - 📖 CS'21 at UINSU.
+- 💞️ I’m looking to collaborate on Web Application Project.
+- 📫 My Portfolio?? : << On Progress >>
 
 ### connect with me
 
