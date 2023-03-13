@@ -1,7 +1,7 @@
-### Hi there, Im Mhd. Naufal Habib Ritonga 👋
+### Hi there, Habib Ritonga 👋
 
-- 🌱 i’m currently learning Go. 
-- 📖 cs'21 at UINSU.
+- 🌱 I’m currently learning Go. 
+- 📖 CS'21 at UINSU.
 
 ### connect with me
 
@@ -10,6 +10,6 @@
 
 ### languages and tools
 
-<a href="https://www.python.org/" alt="Python"><img src="https://img.icons8.com/color/000000/python--v1.png" width="40" height="40" style= margin-right:20px;/></a>
-<a href="https://www.nodejs.org/" alt="Node JS"><img src="https://img.icons8.com/color/000000/nodejs.png" width="40" height="40" style= margin-right:15px;/></a>
+<a href="https://www.python.org/" alt="Python"><img src="https://cdn-icons-png.flaticon.com/512/919/919838.png" width="40" height="40" style= margin-right:20px;/></a>
+<a href="https://www.go.dev/" alt="Node JS"><img src="https://img.icons8.com/color/000000/nodejs.png" width="40" height="40" style= margin-right:15px;/></a>
 <a href="https://www.php.net" alt="PHP"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" height="40" style= margin-right:15px;/></a>
