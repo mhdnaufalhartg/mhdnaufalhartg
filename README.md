@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Mhd. Naufal Habib Ritonga 👋
 
 - 🌱 i’m currently learning Go. 
 - 📖 cs'21 at UINSU.
