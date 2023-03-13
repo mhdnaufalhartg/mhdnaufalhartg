@@ -11,5 +11,5 @@
 ### languages and tools
 
 <a href="https://go.dev/" alt="Go"><img src="https://cdn-icons-png.flaticon.com/512/919/919838.png" width="40" height="40" style= margin-right:20px;/></a>
-<a href="https://www.go.dev/" alt="Node JS"><img src="https://img.icons8.com/color/000000/nodejs.png" width="40" height="40" style= margin-right:15px;/></a>
-<a href="https://www.php.net" alt="PHP"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" height="40" style= margin-right:15px;/></a>
+<a href="https://reactjs.org/" alt="React JS"><img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="40" height="40" style= margin-right:15px;/></a>
+<a href="https://mysql.com" alt="mysql"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40" height="40" style= margin-right:15px;/></a>
