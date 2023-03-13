@@ -1,6 +1,6 @@
 ### Hi there, Habib Ritonga 👋
 
-- 🌱 I’m currently learning Go. 
+- 🌱 I’m currently learning Go and Reactjs. 
 - 📖 CS'21 at UINSU.
 
 ### connect with me
