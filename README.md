@@ -8,6 +8,7 @@
 ### connect with me
 
 <a href = "https://www.instagram.com/mhdnaufalhartg/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="40" width="40" style= margin-right:15px;/></a>
+<a href = "https://www.twitter.com/mhdnaufalhartg/" alt="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" height="40" width="40" style= margin-right:15px;/></a>
 <a href = "mailto:habibesktop@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
 
 ### languages and tools
