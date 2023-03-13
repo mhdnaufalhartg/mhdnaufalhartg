@@ -1,4 +1,4 @@
-### Hi there, Habib Ritonga 👋
+### Hi there, I'm Habib Ritonga 👋
 
 - 🌱 I’m currently learning Go and Reactjs. 
 - 📖 CS'21 at UINSU.
